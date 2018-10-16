@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="app_title">Registrasi</string>
+
+    <string name="from_text">Isi form untuk registrasi sebagai Pengguna</string>
+    <string name="from_name">Nama Lengkap</string>
+    <string name="from_email">Alamat Email</string>
+    <string name="from_phone">Nomor HP</string>
+    <string name="from_pwd">Kata Sandi</string>
+    <string name="from_check">Saya telah membaca dan menyetujui peraturan</string>
+
+    <string name="btn_go">Simpan</string>
+    <string name="btn_lang">Atur Bahasa</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La mia localizzazione</string>
+    <string name="app_title">Registrazionei</string>
+
+    <string name="from_text">Compila il modulo per registrarti come utente</string>
+    <string name="from_name">Nome completo</string>
+    <string name="from_email">Indirizzo email</string>
+    <string name="from_phone">Numero di cellulare</string>
+    <string name="from_pwd">password</string>
+    <string name="from_check">Ho letto e accettato le regole</string>
+
+    <string name="btn_go">Salva</string>
+    <string name="btn_lang">Imposta lingua</string>
+</resources>
